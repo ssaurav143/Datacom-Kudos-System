@@ -239,6 +239,12 @@ DELETE /kudos/{id}
 
 ---
 
+## GitHub Repository
+
+https://github.com/ssaurav143/Datacom-Kudos-System
+
+---
+
 # Approval
 
 Status: Approved
